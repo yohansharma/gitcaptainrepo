@@ -138,7 +138,5 @@ foreach ([$students, $teachers] as $users) {
     });
 }
 
-}  
-  }
 
 
